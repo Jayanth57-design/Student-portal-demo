@@ -1,0 +1,5 @@
+Name: Jayanth
+section: A
+suc: 2352320090
+roll: 13
+Class: bca 
